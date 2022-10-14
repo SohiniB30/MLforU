@@ -2,7 +2,6 @@
 <h1 align="center"> <img src= "https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub___headpic.jpg" width= "40" /> HacktoberFest 2022 <img src= "https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub___headpic.jpg" width= "40" /> </h1>
 
 
-<div align="center">
 
 <img src= "https://blog.tooljet.com/content/images/2022/09/Screenshot-2022-09-27-at-08.03.21.png" width= "1200"/>
 
